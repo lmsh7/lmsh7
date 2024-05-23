@@ -1,1 +1,1 @@
-[![My Skills](https://skillicons.dev/icons?i=haskell,bevy,nextjs,kubernetes,prometheus,fastapi,kafka,mongodb,elasticsearch,redis,postgres,latex,git,python,cpp,docker,apple,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=haskell,bevy,rust,nextjs,kubernetes,prometheus,fastapi,kafka,mongodb,elasticsearch,redis,postgres,latex,git,python,cpp,docker,apple,ubuntu)](https://skillicons.dev)
